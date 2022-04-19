@@ -1,0 +1,11 @@
+/node_modules
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+!critical-css/
+/vendor
+/public/front-end
+/public/package-admin
+/public/package-pages
+/public/vendor/*

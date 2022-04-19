@@ -1,0 +1,3 @@
+Sitemap: https://ecosystem.com.cy/sitemap.xml
+User-agent: *
+Disallow: /admin/
